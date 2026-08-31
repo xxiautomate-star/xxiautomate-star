@@ -28,10 +28,6 @@ acuvo "the invoice test is failing — work out why and fix it"
 
 **[→ acuvo-code](https://github.com/xxiautomate-star/acuvo-code)** · [npm](https://www.npmjs.com/package/acuvo-code)
 
-### 🟢 Also live
-- **Revenue OS** — an autonomous AI revenue agent. Plug it into a business and it works their dead *and* new leads to booked, attributed sales calls — 24/7, in their voice, fully governed. → **[revenue.xxiautomate.com](https://revenue.xxiautomate.com)**
-- **Spine** — append-only memory layer for AI. Semantic recall, MCP-native. Claude compacts; Spine doesn't. → **[spine.xxiautomate.com](https://spine.xxiautomate.com)**
-
 ### How we build
 - **Assembled, not reinvented** — we integrate what the internet already gives us, and spend the time on the parts nobody else has built.
 - **Real engineering** — hand-coded, typed, tested. Not no-code wrapped in a theme.
